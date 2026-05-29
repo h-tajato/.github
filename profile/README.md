@@ -1,5 +1,5 @@
-## H-Tajato
-H-Tajato è un gruppo nato dall'esigenza di avere uno spazio condiviso tra diversi colleghi per la condivisione di progetti e di materiale utile per il corso di laurea in Ingegneria Informatica presso l'Università degli studi di Napoli "Federico II".
+## h_tagliato
+h_tagliato è un gruppo nato dall'esigenza di avere uno spazio condiviso tra diversi colleghi per la condivisione di progetti e di materiale utile per il corso di laurea in Ingegneria Informatica presso l'Università degli studi di Napoli "Federico II".
 
 <!--
 
